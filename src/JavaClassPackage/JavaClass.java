@@ -36,7 +36,8 @@ public class JavaClass {
 		
 		
 		driver.get(website.toUpperCase());
-		
+
+		String name = "Toqa";
 		
 		
 	}
